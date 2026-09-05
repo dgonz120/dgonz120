@@ -1,7 +1,7 @@
 # Daniel Gonzalez
 **Cybersecurity Professional | SOC Analyst & Threat Detection**
 
-Undergraduate specializing in network defense, vulnerability management, and digital forensics. Focused on incident response, traffic analysis, and blue team operations.
+IT professional with an AAS in Cybersecurity and a strong foundation in system administration, hardware optimization, and network troubleshooting. Combines rigorous technical training with extensive experience managing high-volume, client-facing environments to deliver fast, effective tech support and end-user solutions.
 
 ---
 
