@@ -16,7 +16,7 @@ IT professional with an AAS in Cybersecurity and a strong foundation in system a
   * Configured Snort IDS, created custom rules (`SID` parameters), and validated syntax (`snort -T`).
 * [Suricata Threat Detection & Validation](https://github.com/dgonz120/Suricata-Threat-Detection-Validation/tree/main)
   * Configured Suricata engine, tested detection rules, and analyzed log output for network threats.
-* **Telnet vs. SSH Packet Analysis** — `[Repository Link](YOUR_LINK_HERE)`
+* [Telnet vs. SSH Packet Analysis](https://github.com/dgonz120/Telnet-vs.-SSH-Packet-Analysis/tree/main)
   * Analyzed cleartext vs. encrypted protocol traffic in Wireshark and mapped network attack paths.
 * **Nmap Scans & TCP Flags Analysis** — `[Repository Link](YOUR_LINK_HERE)`
   * Performed active network reconnaissance, analyzing TCP flag responses and host states.
