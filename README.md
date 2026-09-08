@@ -22,7 +22,7 @@ IT professional with an AAS in Cybersecurity and a strong foundation in system a
   * Performed active network reconnaissance, analyzing TCP flag responses and host states.
 * [Salt Typhoon Analysis & Network Scanning](https://github.com/dgonz120/Salt-Typhoon-Analysis-Network-Scanning/tree/main)
   * Analyzed threat actor behavior and conducted hands-on network scanning.
-* **Windows Defender Firewall Configuration** — `[Repository Link](YOUR_LINK_HERE)`
+* [Windows Defender Firewall Configuration](https://github.com/dgonz120/Windows-Defender-Firewall-Network-Capture-Policy-Validation/tree/main)`
   * Configured endpoint defense rules and analyzed traffic blocking policies.
 
 ---
