@@ -18,9 +18,9 @@ IT professional with an AAS in Cybersecurity and a strong foundation in system a
   * Configured Suricata engine, tested detection rules, and analyzed log output for network threats.
 * [Telnet vs. SSH Packet Analysis](https://github.com/dgonz120/Telnet-vs.-SSH-Packet-Analysis/tree/main)
   * Analyzed cleartext vs. encrypted protocol traffic in Wireshark and mapped network attack paths.
-* **Nmap Scans & TCP Flags Analysis** — `[Repository Link](YOUR_LINK_HERE)`
+* [Nmap Scans & TCP Flags Analysis](https://github.com/dgonz120/Nmap-Scans-TCP-Flags-Analysis)
   * Performed active network reconnaissance, analyzing TCP flag responses and host states.
-* **Salt Typhoon Analysis & Network Scanning** — `[Repository Link](YOUR_LINK_HERE)`
+* [Salt Typhoon Analysis & Network Scanning](https://github.com/dgonz120/Salt-Typhoon-Analysis-Network-Scanning/tree/main)
   * Analyzed threat actor behavior and conducted hands-on network scanning.
 * **Windows Defender Firewall Configuration** — `[Repository Link](YOUR_LINK_HERE)`
   * Configured endpoint defense rules and analyzed traffic blocking policies.
