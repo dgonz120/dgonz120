@@ -28,14 +28,10 @@ IT professional with an AAS in Cybersecurity and a strong foundation in system a
 ---
 
 ### 🔍 Incident Response & Digital Forensics
-* **SQLite Forensics & Incident Response** — `[Repository Link](YOUR_LINK_HERE)`
-  * Performed database forensics utilizing SHA-256 hash baselining (`certutil`) and working-copy isolation.
-* **Cybersecurity Incident Analysis Series** — `[Repository Link](YOUR_LINK_HERE)`
-  * Detailed triage, incident handling documentation, and root-cause analysis across multiple IR scenarios.
-* **Automated Incident Response Scripts** — `[Repository Link](YOUR_LINK_HERE)`
-  * Developed custom scripts for rapid triage, evidence gathering, and system log output analysis.
-* **Incident Response Tabletop Exercises** — `[Repository Link](YOUR_LINK_HERE)`
-  * Simulated breach scenarios, containment strategies, and post-incident reporting.
+* [Change Healthcare Attack Analysis & YARA Technical Demonstration](https://github.com/dgonz120/Change-Healthcare-Attack-Analysis-YARA-Technical-Demonstration)
+  * Conducted incident response analysis and developed YARA rules to detect indicators of compromise associated with the Change Healthcare attack.
+* [MGM Resorts Attack Analysis & Autopsy Demonstration](https://github.com/dgonz120/MGM-Resorts-Attack-Analysis-Autopsy-Demonstration)
+  * Performed digital forensics and artifact analysis using Autopsy to investigate the social engineering and cyberattack targeting MGM Resorts.
 
 ---
 
