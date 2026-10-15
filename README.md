@@ -36,7 +36,7 @@ IT professional with an AAS in Cybersecurity and a strong foundation in system a
 ---
 
 ### ⚔️ Offensive Security & Vulnerability Management
-* **Nessus Vulnerability Assessment & Reporting** — `[Repository Link](YOUR_LINK_HERE)`
+* [Nessus Vulnerability Assessment & Reporting](https://github.com/dgonz120/Nessus-Vulnerability-Assessment-Reporting)
   * Configured vulnerability scans, prioritized CVSS scores, and generated remediation reports.
 * **Buffer Overflow & ASLR Execution** — `[Repository Link](YOUR_LINK_HERE)`
   * Examined memory exploitation techniques and Address Space Layout Randomization (ASLR) bypasses.
