@@ -41,8 +41,8 @@ IT professional with an AAS in Cybersecurity and a strong foundation in system a
 * [**Buffer Overflow & ASLR Execution**](https://github.com/dgonz120/Buffer-Overflow-ASLR-Execution/tree/main)
   * Examined memory exploitation techniques and Address Space Layout Randomization (ASLR) bypasses.
 *  [**Linux TCP Reverse Shell & Meterpreter Upgrades**](https://github.com/dgonz120/Linux-TCP-Reverse-Shell)
-  * Demonstrated reverse shell payloads and session escalation using Metasploit/Meterpreter.
-* **Man-in-the-Middle (MITM) & Persistence** — `[Repository Link](YOUR_LINK_HERE)`
+    * Demonstrated reverse shell payloads and session escalation using Metasploit/Meterpreter.
+* [**Man-in-the-Middle (MITM) & Persistence**](https://github.com/dgonz120/Man-in-the-Middle-MITM-Persistence/tree/main)
   * Executed ARP spoofing analysis and evaluated Linux Cron job persistence mechanisms.
 
 ---
