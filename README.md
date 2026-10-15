@@ -12,33 +12,33 @@ IT professional with an AAS in Cybersecurity and a strong foundation in system a
 ---
 
 ### 🛡️ Network Security & Threat Detection
-* [SNORT IDS Deployment & Custom Rules](https://github.com/dgonz120/SNORT-IDS-Deployment-Custom-Rules/tree/main)
+* [**SNORT IDS Deployment & Custom Rules**](https://github.com/dgonz120/SNORT-IDS-Deployment-Custom-Rules/tree/main)
   * Configured Snort IDS, created custom rules (`SID` parameters), and validated syntax (`snort -T`).
-* [Suricata Threat Detection & Validation](https://github.com/dgonz120/Suricata-Threat-Detection-Validation/tree/main)
+* [**Suricata Threat Detection & Validation**](https://github.com/dgonz120/Suricata-Threat-Detection-Validation/tree/main)
   * Configured Suricata engine, tested detection rules, and analyzed log output for network threats.
-* [Telnet vs. SSH Packet Analysis](https://github.com/dgonz120/Telnet-vs.-SSH-Packet-Analysis/tree/main)
+* [**Telnet vs. SSH Packet Analysis**](https://github.com/dgonz120/Telnet-vs.-SSH-Packet-Analysis/tree/main)
   * Analyzed cleartext vs. encrypted protocol traffic in Wireshark and mapped network attack paths.
-* [Nmap Scans & TCP Flags Analysis](https://github.com/dgonz120/Nmap-Scans-TCP-Flags-Analysis)
+* [**Nmap Scans & TCP Flags Analysis**](https://github.com/dgonz120/Nmap-Scans-TCP-Flags-Analysis)
   * Performed active network reconnaissance, analyzing TCP flag responses and host states.
-* [Salt Typhoon Analysis & Network Scanning](https://github.com/dgonz120/Salt-Typhoon-Analysis-Network-Scanning/tree/main)
+* [**Salt Typhoon Analysis & Network Scanning**](https://github.com/dgonz120/Salt-Typhoon-Analysis-Network-Scanning/tree/main)
   * Analyzed threat actor behavior and conducted hands-on network scanning.
-* [Windows Defender Firewall Configuration](https://github.com/dgonz120/Windows-Defender-Firewall-Network-Capture-Policy-Validation/tree/main)`
+* [**Windows Defender Firewall Configuration**](https://github.com/dgonz120/Windows-Defender-Firewall-Network-Capture-Policy-Validation/tree/main)`
   * Configured endpoint defense rules and analyzed traffic blocking policies.
 
 ---
 
 ### 🔍 Incident Response & Digital Forensics
-* [Change Healthcare Attack Analysis & YARA Technical Demonstration](https://github.com/dgonz120/Change-Healthcare-Attack-Analysis-YARA-Technical-Demonstration)
+* [**Change Healthcare Attack Analysis & YARA Technical Demonstration**](https://github.com/dgonz120/Change-Healthcare-Attack-Analysis-YARA-Technical-Demonstration)
   * Conducted incident response analysis and developed YARA rules to detect indicators of compromise associated with the Change Healthcare attack.
-* [MGM Resorts Attack Analysis & Autopsy Demonstration](https://github.com/dgonz120/MGM-Resorts-Attack-Analysis-Autopsy-Demonstration)
+* [**MGM Resorts Attack Analysis & Autopsy Demonstration**](https://github.com/dgonz120/MGM-Resorts-Attack-Analysis-Autopsy-Demonstration)
   * Performed digital forensics and artifact analysis using Autopsy to investigate the social engineering and cyberattack targeting MGM Resorts.
 
 ---
 
 ### ⚔️ Offensive Security & Vulnerability Management
-* [Nessus Vulnerability Assessment & Reporting](https://github.com/dgonz120/Nessus-Vulnerability-Assessment-Reporting)
+* [**Nessus Vulnerability Assessment & Reporting**](https://github.com/dgonz120/Nessus-Vulnerability-Assessment-Reporting)
   * Configured vulnerability scans, prioritized CVSS scores, and generated remediation reports.
-* **Buffer Overflow & ASLR Execution** — `[Repository Link](YOUR_LINK_HERE)`
+* [**Buffer Overflow & ASLR Execution**](https://github.com/dgonz120/Buffer-Overflow-ASLR-Execution/tree/main)
   * Examined memory exploitation techniques and Address Space Layout Randomization (ASLR) bypasses.
 * **Linux TCP Reverse Shell & Meterpreter Upgrades** — `[Repository Link](YOUR_LINK_HERE)`
   * Demonstrated reverse shell payloads and session escalation using Metasploit/Meterpreter.
