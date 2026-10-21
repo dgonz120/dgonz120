@@ -44,21 +44,3 @@ IT professional with an AAS in Cybersecurity and a strong foundation in system a
     * Demonstrated reverse shell payloads and session escalation using Metasploit/Meterpreter.
 * [**Man-in-the-Middle (MITM) & Persistence**](https://github.com/dgonz120/Man-in-the-Middle-MITM-Persistence/tree/main)
   * Executed ARP spoofing analysis and evaluated Linux Cron job persistence mechanisms.
-
----
-
-### 📡 Wireless Security Assessment
-* **Wireless Network Reconnaissance & Client Enumeration** — `[Repository Link](YOUR_LINK_HERE)`
-  * Conducted 802.11 frame capturing, client mapping, and SSID profiling using Kali Linux.
-* **Deauthentication Detection & Wifite Security Testing** — `[Repository Link](YOUR_LINK_HERE)`
-  * Monitored deauth attack signatures and evaluated automated wireless auditing tools.
-* **MAC Address Manipulation & Wireless Evasion** — `[Repository Link](YOUR_LINK_HERE)`
-  * Audited MAC spoofing techniques and analyzed 802.11 traffic captures using Reaver, Hydra, and TCPReplay.
-
----
-
-### 🔐 Cryptography & Password Cracking
-* **Hashcat & Hash Cracking Analysis** — `[Repository Link](YOUR_LINK_HERE)`
-  * Evaluated hash identification, wordlist attacks, and dictionary-based password recovery.
-* **Symmetric vs. Asymmetric Encryption** — `[Repository Link](YOUR_LINK_HERE)`
-  * Analyzed substitution/transposition ciphers and modern cryptographic key exchange concepts.
