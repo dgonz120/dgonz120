@@ -1,7 +1,7 @@
 # Daniel Gonzalez
-**Cybersecurity Professional | SOC Analyst & Threat Detection**
+**Cybersecurity Graduate | IT Security & Threat Detection
 
-IT professional with an AAS in Cybersecurity and a strong foundation in system administration, hardware optimization, and network troubleshooting. Combines rigorous technical training with extensive experience managing high-volume, client-facing environments to deliver fast, effective tech support and end-user solutions.
+Cybersecurity graduate with an Associate of Applied Science in Cybersecurity and hands-on experience in security monitoring, network defense, vulnerability assessment, incident response, and digital forensics through practical lab projects. Familiar with tools including Wazuh, Snort, Suricata, Nessus, Wireshark, and Autopsy. Combines technical training with strong communication, teamwork, and problem-solving skills, with a focus on supporting IT security operations, identifying potential threats, and strengthening organizational security.
 
 ---
 
