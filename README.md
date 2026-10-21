@@ -1,5 +1,5 @@
 # Daniel Gonzalez
-**Cybersecurity Graduate | IT Security & Threat Detection
+**Cybersecurity Graduate | IT Security & Threat Detection**
 
 Cybersecurity graduate with an Associate of Applied Science in Cybersecurity and hands-on experience in security monitoring, network defense, vulnerability assessment, incident response, and digital forensics through practical lab projects. Familiar with tools including Wazuh, Snort, Suricata, Nessus, Wireshark, and Autopsy. Combines technical training with strong communication, teamwork, and problem-solving skills, with a focus on supporting IT security operations, identifying potential threats, and strengthening organizational security.
 
