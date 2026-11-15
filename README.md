@@ -51,13 +51,13 @@ Cybersecurity graduate with an Associate of Applied Science in Cybersecurity and
 *  [**Deauthentication Detection & Wifite Security Testing**](https://github.com/dgonz120/Wireless-Deauthentication-Attack-Detection-Using-Wireshark)
     * Monitored deauth attack signatures and evaluated automated wireless auditing tools.
 *  [**MAC Address Manipulation & Wireless Evasion**](https://github.com/dgonz120/MAC-Address-Manipulation-Wireless-Evasion)
-  * Audited MAC spoofing techniques and analyzed 802.11 traffic captures using Reaver, Hydra, and TCPReplay.
+    * Audited MAC spoofing techniques and analyzed 802.11 traffic captures using Reaver, Hydra, and TCPReplay.
 
 ---
 
 ### 🔐 Cryptography & Password Cracking
-* **Hashcat & Hash Cracking Analysis** — `[Repository Link](YOUR_LINK_HERE)`
-  * Evaluated hash identification, wordlist attacks, and dictionary-based password recovery.
+*  [**Hashcat & Hash Cracking Analysis**](https://github.com/dgonz120/Hashcat-Hash-Cracking-Analysis/tree/main)
+    * Evaluated hash identification, wordlist attacks, and dictionary-based password recovery.
 * **Symmetric vs. Asymmetric Encryption** — `[Repository Link](YOUR_LINK_HERE)`
-  * Analyzed substitution/transposition ciphers and modern cryptographic key exchange concepts.
+    * Analyzed substitution/transposition ciphers and modern cryptographic key exchange concepts.
 
