@@ -48,9 +48,7 @@ Cybersecurity graduate with an Associate of Applied Science in Cybersecurity and
 ---
 
 ### 📡 Wireless Security Assessment
-* **Wireless Network Reconnaissance & Client Enumeration** — `[Repository Link](YOUR_LINK_HERE)`
-  * Conducted 802.11 frame capturing, client mapping, and SSID profiling using Kali Linux.
-* **Deauthentication Detection & Wifite Security Testing** — `[Repository Link](YOUR_LINK_HERE)`
+*  [**Deauthentication Detection & Wifite Security Testing**](https://github.com/dgonz120?tab=repositories#:~:text=Wireless%2DDeauthentication%2DAttack%2DDetection%2DUsing%2DWireshark)`
   * Monitored deauth attack signatures and evaluated automated wireless auditing tools.
 * **MAC Address Manipulation & Wireless Evasion** — `[Repository Link](YOUR_LINK_HERE)`
   * Audited MAC spoofing techniques and analyzed 802.11 traffic captures using Reaver, Hydra, and TCPReplay.
