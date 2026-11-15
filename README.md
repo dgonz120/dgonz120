@@ -49,7 +49,7 @@ Cybersecurity graduate with an Associate of Applied Science in Cybersecurity and
 
 ### 📡 Wireless Security Assessment
 *  [**Deauthentication Detection & Wifite Security Testing**](https://github.com/dgonz120/Wireless-Deauthentication-Attack-Detection-Using-Wireshark)
-  * Monitored deauth attack signatures and evaluated automated wireless auditing tools.
+    * Monitored deauth attack signatures and evaluated automated wireless auditing tools.
 * **MAC Address Manipulation & Wireless Evasion** — `[Repository Link](YOUR_LINK_HERE)`
   * Audited MAC spoofing techniques and analyzed 802.11 traffic captures using Reaver, Hydra, and TCPReplay.
 
