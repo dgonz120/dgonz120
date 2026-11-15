@@ -58,6 +58,6 @@ Cybersecurity graduate with an Associate of Applied Science in Cybersecurity and
 ### 🔐 Cryptography & Password Cracking
 *  [**Hashcat & Hash Cracking Analysis**](https://github.com/dgonz120/Hashcat-Hash-Cracking-Analysis/tree/main)
     * Evaluated hash identification, wordlist attacks, and dictionary-based password recovery.
-* **Symmetric vs. Asymmetric Encryption** — `[Repository Link](YOUR_LINK_HERE)`
+*  [**Symmetric vs. Asymmetric Encryption**]([YOUR_LINK_HERE](https://github.com/dgonz120/Substitution-and-Transposition-Ciphers-Using-Python/tree/main))
     * Analyzed substitution/transposition ciphers and modern cryptographic key exchange concepts.
 
